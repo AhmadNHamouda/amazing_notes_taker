@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701647866417",
+    "project_id": "amazingnotestaker",
+    "storage_bucket": "amazingnotestaker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701647866417:android:7e5302f00bcaa856e2a310",
+        "android_client_info": {
+          "package_name": "com.example.amazing_notes_taker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701647866417-6e3kfdt51je1q285kkdcjb2foofc617f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OkUE-JrUGCK8k-YlOe_Lis1YtB5K7Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701647866417-6e3kfdt51je1q285kkdcjb2foofc617f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
